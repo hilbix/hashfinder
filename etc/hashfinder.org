@@ -1,4 +1,6 @@
 # Site description
+#
+# see https://github.com/hilbix/gen
 
 nginx	443
 ssl	on hsts
