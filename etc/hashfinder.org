@@ -1,0 +1,9 @@
+# Site description
+
+nginx	443
+ssl	on hsts
+csp	max
+feat	all
+referer	best
+php	min
+
